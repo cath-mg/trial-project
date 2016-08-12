@@ -1,0 +1,27 @@
+.body {
+	background-color: #90C3D4 !important;
+	padding: 40px 80px;
+}
+
+.title {
+	background-color: #A1D490;
+	height: 15%;
+}
+
+.background {
+	height: 75%;
+}
+
+.sideBar {
+	background-color: #C390D4;
+}
+
+.content {
+	background-color: #D4A190;
+}
+.content .description {
+	background-color: #EBCDC3;
+}
+.content .navigation {
+	background-color: #FAE3DC;
+}
